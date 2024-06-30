@@ -9,6 +9,13 @@ Here are some ideas to get you started:
 ### 🌟 About Me
 I'm a passionate competitive programmer and web developer with a keen interest in building impactful projects. 
 
+### 💻 Coding Profiles
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/your_profile)](https://codeforces.com/profile/your_profile)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&link=https://www.codechef.com/users/your_profile)](https://www.codechef.com/users/your_profile)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/your_profile)](https://auth.geeksforgeeks.org/user/your_profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/your_profile)](https://leetcode.com/your_profile)
+
+
 ### 🛠️ Technologies & Tools
 - **Languages**: 
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -47,11 +54,6 @@ I'm a passionate competitive programmer and web developer with a keen interest i
 
 ### 👯 I’m looking to collaborate on: **Open-source projects and innovative startups**
 
-### 💻 Coding Profiles
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/your_profile)](https://codeforces.com/profile/your_profile)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&link=https://www.codechef.com/users/your_profile)](https://www.codechef.com/users/your_profile)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/your_profile)](https://auth.geeksforgeeks.org/user/your_profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/your_profile)](https://leetcode.com/your_profile)
 
 ---
 
