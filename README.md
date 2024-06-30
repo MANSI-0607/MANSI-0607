@@ -14,9 +14,9 @@ I'm a passionate competitive programmer and web developer with a keen interest i
 
 ### 🛠️ Technologies & Tools
 - **Languages**: 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 - **Frontend**: 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -28,15 +28,9 @@ I'm a passionate competitive programmer and web developer with a keen interest i
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **DevOps**: 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
 - **Others**: 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📈 GitHub Stats
 ![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MANSI-0607&show_icons=true&theme=radical)
@@ -45,15 +39,16 @@ I'm a passionate competitive programmer and web developer with a keen interest i
 
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your-email@example.com)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/your-profile)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mansi-gupta-iitg/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your-email@example.com)](mailto:mansimayank2002@gmail.com)
 
 ### 📂 Projects
-- [Project 1](https://github.com/MANSI-0607/project1): A brief description of your project.
-- [Project 2](https://github.com/MANSI-0607/project2): A brief description of your project.
+- [ZCoder](https://github.com/MANSI-0607/zcoder_): A brief description of your project.
+- [CAMPUS-OLX](https://github.com/MANSI-0607/CAMPUS-OLX): A brief description of your project.
+- [Web Crawler & Short URL](https://github.com/MANSI-0607/CAMPUS-OLX): A brief description of your project.
 
 - 👯 I’m looking to collaborate on: **Open-source projects and innovative startups**
-- 📫 How to reach me: **[Email](mailto:your-email@example.com)** | **[LinkedIn](https://www.linkedin.com/in/your-profile)**
+
 
 
 ---
