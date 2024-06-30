@@ -1,4 +1,23 @@
 ## Hi there <span class="wave">👋</span> I'm Mansi!
+.wave {
+  display: inline-block;
+  animation-name: wave-animation;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  transform-origin: 70% 70%;
+  margin-right: 5px;
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(-10deg); }
+  20% { transform: rotate(12deg); }
+  30% { transform: rotate(-10deg); }
+  40% { transform: rotate(9deg); }
+  50% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+
 
 
 <!--
@@ -59,21 +78,3 @@ I'm a passionate competitive programmer and web developer with a keen interest i
 ---
 
 ⭐️ From [MANSI-0607](https://github.com/MANSI-0607)
-.wave {
-  display: inline-block;
-  animation-name: wave-animation;
-  animation-duration: 2.5s;
-  animation-iteration-count: infinite;
-  transform-origin: 70% 70%;
-  margin-right: 5px;
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(-10deg); }
-  20% { transform: rotate(12deg); }
-  30% { transform: rotate(-10deg); }
-  40% { transform: rotate(9deg); }
-  50% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
