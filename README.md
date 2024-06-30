@@ -9,13 +9,10 @@ Here are some ideas to get you started:
 ### 🌟 About Me
 I'm a passionate competitive programmer and web developer with a keen interest in building impactful projects. 
 
-
-
-
 ### 🛠️ Technologies & Tools
 - **Languages**: 
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 - **Frontend**: 
@@ -30,26 +27,31 @@ I'm a passionate competitive programmer and web developer with a keen interest i
 
 - **Others**: 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-   ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 📈 GitHub Stats
 ![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MANSI-0607&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANSI-0607&layout=compact&theme=radical)
 
-
-
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/your-profile)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mansi-gupta-iitg/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your-email@example.com)](mailto:mansimayank2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mansi-gupta-iitg/)](https://www.linkedin.com/in/mansi-gupta-iitg/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mansimayank2002@gmail.com)](mailto:mansimayank2002@gmail.com)
 
 ### 📂 Projects
 - [ZCoder](https://github.com/MANSI-0607/zcoder_): A brief description of your project.
 - [CAMPUS-OLX](https://github.com/MANSI-0607/CAMPUS-OLX): A brief description of your project.
 - [Web Crawler & Short URL](https://github.com/MANSI-0607/CAMPUS-OLX): A brief description of your project.
 
-- 👯 I’m looking to collaborate on: **Open-source projects and innovative startups**
+### 👯 I’m looking to collaborate on: **Open-source projects and innovative startups**
 
-
+### 💻 Coding Profiles
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/your_profile)](https://codeforces.com/profile/your_profile)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&link=https://www.codechef.com/users/your_profile)](https://www.codechef.com/users/your_profile)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/your_profile)](https://auth.geeksforgeeks.org/user/your_profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/your_profile)](https://leetcode.com/your_profile)
 
 ---
 
