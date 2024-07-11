@@ -14,7 +14,7 @@ I'm a passionate competitive programmer and web developer with a keen interest i
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&link=https://codeforces.com/profile/mansimayank2002)](https://codeforces.com/profile/mansimayank2002)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&link=https://www.codechef.com/users/mansi_codes)](https://www.codechef.com/users/mansi_codes)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/mansimayu6hh/)](https://www.geeksforgeeks.org/user/mansimayu6hh/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/mansi_codes/)](https://leetcode.com/u/mansi_codes/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/mansi_codes/)](https://leetcode.com/u/mansi_codes/)
 
 
 ### 🛠️ Technologies & Tools
