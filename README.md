@@ -44,6 +44,8 @@ I'm a passionate competitive programmer and web developer with a keen interest i
 ![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MANSI-0607&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MANSI-0607&layout=compact&theme=radical)
 
+### 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=MANSI-0607&style=flat-square&color=blue)
 
 ### 📂 Projects
 - [ZCoder](https://github.com/MANSI-0607/zcoder_) 
